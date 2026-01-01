@@ -3,6 +3,7 @@
 Train an AI agent to land a spacecraft on the moon using Deep Reinforcement Learning.
 
 ## Overview
+![Kooha-2026-01-01-22-20-21](https://github.com/user-attachments/assets/3fcac007-d71a-4a0b-9a00-9e1f56e111be)
 
 This project uses the OpenAI Gymnasium `LunarLander-v3` environment with Stable Baselines3 to train RL agents. The goal is to land the spacecraft safely between the flags on the landing pad.
 
