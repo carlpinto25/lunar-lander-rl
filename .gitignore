@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+env/
+.env
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Models (optional, but keeping best_model is usually fine)
+# models/
